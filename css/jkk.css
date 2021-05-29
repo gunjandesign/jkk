@@ -4,6 +4,7 @@ body{
   font-size: 20px;
   line-height: 30px;
 }
+/*headerstyles*/
 header{
   background-color: #E5CFD8;
   text-align: center;
@@ -24,7 +25,7 @@ main{
   margin: 0 auto;
   padding: 20px;
 }
-
+/* main img */
 main img{max-width: 100%}
 h2 {
   font-size: 30px; color:red;
@@ -37,6 +38,7 @@ a:hover{
   background-color: #35091A;
   color: White;
 }
+/* footer */
 footer{
     background-color: #E5CFD8;
     text-align: center;
